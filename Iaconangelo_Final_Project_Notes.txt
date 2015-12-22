@@ -1,1 +1,15 @@
 Filtered NYC OpenData for Agency Name (Department of Housing Presrvation and Development), created date (between 08/01/2015 12am and 08/31/2015 12PM) and Incident Zip (11221).
+
+Created an Excel file with data in place.  Think I'll look at the kind of complaint, the way it was resolved, and the descriptor of the problem.
+
+I made a pivot table with the Complaint Type as the column and the Resolution Description as the row.  There were 479 complaints logged in the month of August in total, including complaints which are still open.  The most common complaint by far is of "Unsanitary Condition".  
+
+Dragging "Resolution Description" into the Column category makes it easier to see the totals for each category. 
+
+99 of the 479 complaints are of Unsanitary Conditions.  That seems quite high to me.  
+In 35 of those instances, the Dept was "not able to gain access to inspect the following conditions" -- and so they closed the complaint!
+In 40 of those instances, the Dept inspected the conditions and decided not to issue a violation, then closed the complaint.
+In 15 of those instances, the Dept inspected it and issued a violation.
+
+The other most common categories of complaints were Heat/Hot Water (60), Door/Window (51), Paint/Plaster (49), and Plumbing (46).
+I think probably the most newsy of these are Unsanitary; Heat/Hot Water; and Paint/Plaster.  
