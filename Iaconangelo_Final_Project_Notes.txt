@@ -13,3 +13,22 @@ In 15 of those instances, the Dept inspected it and issued a violation.
 
 The other most common categories of complaints were Heat/Hot Water (60), Door/Window (51), Paint/Plaster (49), and Plumbing (46).
 I think probably the most newsy of these are Unsanitary; Heat/Hot Water; and Paint/Plaster.  
+
+Filtering under "Column Labels", I find that 25 of the 60 Heat/Hot Water complaints were actually duplicates -- someone had already reported it.
+
+Paint/Plaster, Dept not able to gain access to inspect -- and closed the complaint -- on 10 of the instances.
+Paint/Plaster -- Dept inspected and issued a violation in 19 of the 49 instances.
+Paint/Plaster -- Dept inspected and issued no violations in 13 of the 49 instances.
+
+For Plumbing -- Dept not able to gain access, and closed complaints -- 27 out of the 46 times.
+Plumbing -- Dept inspected and issued violations in 12 of the times.
+Plumbing -- dDept inspected and issued no violations on 7 of the instances.
+
+I imagine that they probably aren't able to get access on so many of the Plumbing and Unsanitary Conditions cases because they're occurring inside someone's apartment, and maintenance probably doesn't have the right to just walk in if no one opens up.
+
+Now I'm running another pivot table, with Street Name and Address in the rows and the complaint type in the columns.  
+Forgot to note earlier that this is restricted to 11221 zip code, which encompasses most of Bushwick and part of Bed-Stuy.  
+
+The idea behind this pivot table is to figure out what complexes and what addresses are repeat offenders.  
+
+Some repeat offenders: 441 Wilson (with 25 complaints); 920 Madison with 22; and 490A Jefferson with 22.
