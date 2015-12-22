@@ -37,3 +37,6 @@ So I want to check out how these outliers break down.
 
 [Also want to add a note about the categories I looked at earlier.  The predominance of "unsanitary conditions" and "plumbing" complaints sound to me like there might be a lot of old people who for reasons of mental or physical health are living in nasty conditions in their apartments.  Is it that they're hoarding?  I've wanted to do a story on that topic for a while, and this might be a good entry point into it.  I could cross-check the addresses here with data on the inhabitants to find out things like their age, health insurance, even income based on the neighborhood and block they live on.]
 
+Making a pivot table with address and complaint type in the rows, and values in the columns, I didn't find much in the way of outliers for 441 Wilson or 920 Madison.  490A Jefferson was a little different -- 6 "general" complaints, 8 for heat/hot water and 6 for unsanitary conditions, last August.
+Nothing so shocking as to command a story.  What I have, still, is that 99 of the 479 complaints are for unsanitary conditions -- that seems worth exploring to me.
+  
