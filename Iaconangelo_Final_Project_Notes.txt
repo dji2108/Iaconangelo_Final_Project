@@ -32,3 +32,8 @@ Forgot to note earlier that this is restricted to 11221 zip code, which encompas
 The idea behind this pivot table is to figure out what complexes and what addresses are repeat offenders.  
 
 Some repeat offenders: 441 Wilson (with 25 complaints); 920 Madison with 22; and 490A Jefferson with 22.
+
+So I want to check out how these outliers break down.
+
+[Also want to add a note about the categories I looked at earlier.  The predominance of "unsanitary conditions" and "plumbing" complaints sound to me like there might be a lot of old people who for reasons of mental or physical health are living in nasty conditions in their apartments.  Is it that they're hoarding?  I've wanted to do a story on that topic for a while, and this might be a good entry point into it.  I could cross-check the addresses here with data on the inhabitants to find out things like their age, health insurance, even income based on the neighborhood and block they live on.]
+
