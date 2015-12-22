@@ -39,4 +39,6 @@ So I want to check out how these outliers break down.
 
 Making a pivot table with address and complaint type in the rows, and values in the columns, I didn't find much in the way of outliers for 441 Wilson or 920 Madison.  490A Jefferson was a little different -- 6 "general" complaints, 8 for heat/hot water and 6 for unsanitary conditions, last August.
 Nothing so shocking as to command a story.  What I have, still, is that 99 of the 479 complaints are for unsanitary conditions -- that seems worth exploring to me.
-  
+Now I'm going to cross-reference the Unsanitary Conditions complaint type with the Descriptor, putting them both in the rows and the Status in the Columns.  
+
+What this shows: of the 99 unsanitary conditions complaints, all but 1 were closed that month.  37 of them were for Pests.  27 were for Mold.  30 were for Garbage/Recycling Storage.  and 4 were for Sewage.
