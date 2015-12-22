@@ -42,3 +42,5 @@ Nothing so shocking as to command a story.  What I have, still, is that 99 of th
 Now I'm going to cross-reference the Unsanitary Conditions complaint type with the Descriptor, putting them both in the rows and the Status in the Columns.  
 
 What this shows: of the 99 unsanitary conditions complaints, all but 1 were closed that month.  37 of them were for Pests.  27 were for Mold.  30 were for Garbage/Recycling Storage.  and 4 were for Sewage.
+
+Went back and ran one more pivot table -- descriptor and incident address under rows, and count of unique key in the values.  
